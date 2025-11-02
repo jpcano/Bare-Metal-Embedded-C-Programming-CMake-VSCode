@@ -8,11 +8,15 @@
 		},
 		{
 			"path": "ch07"
+		},
+		{
+			"path": "ch08"
 		}
 	],
 	"settings": {
 		"files.associations": {
-			"gpio.h": "c"
+			"gpio.h": "c",
+			"systick.h": "c"
 		}
 	}
 }
