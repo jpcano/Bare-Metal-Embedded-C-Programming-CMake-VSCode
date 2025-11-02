@@ -5,6 +5,14 @@
 		},
 		{
 			"path": "ch06"
+		},
+		{
+			"path": "ch07"
 		}
-	]
+	],
+	"settings": {
+		"files.associations": {
+			"gpio.h": "c"
+		}
+	}
 }
